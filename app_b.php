@@ -63,10 +63,11 @@
 		
 		<div class="row">
 			<div class="col-md-3 col-sm-6">
-			<input class="btn btn-success btn-md-3" type="submit" value="Save Data">
+			<input class="btn btn-success hidden-xs btn-md-3" type="submit" value="Save Data1">
+			<input class="btn btn-success visible-xs-inline btn-block" type="submit" value="Save Data2">
 		</div>
 		
-
+		
 
   
 	</div>
