@@ -40,6 +40,32 @@
 	<div class="container">
 
 		<h1> This is the app page </h1>
+		
+	<form>
+		<div class="row">
+			<div class="col-md-3 col-sm-6">
+				<div class="form-group">
+					<label for="to">To: </label>
+					<input name="to" id="to" type="text" class="form-control">
+				</div>
+			</div>
+		</div>
+		
+		<div class="row">
+		<div class="col-md-3 col-sm-6">
+				<div class="form-group">
+					<label for="message">Message: </label>
+					<input name="message" id="message" type="text" class="form-control">
+				</div>
+			</div>
+		
+		</div>
+		
+		<div class="row">
+			<div class="col-md-3 col-sm-6">
+			<input class="btn btn-success btn-md-3" type="submit" value="Save Data">
+		</div>
+		
 
 
   
@@ -47,5 +73,3 @@
   
   </body>
 </html>
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
